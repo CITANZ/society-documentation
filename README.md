@@ -2,10 +2,10 @@
 
 | Important links :book:                                 |
 |--------------------------------------------------------|
-| [Soeciety Rules](Rules)
-| [Committee](Committee) |
-| [Membership](Membership) |
-| [Commmunity Code of Conduct](Community_Code_of_Conduct) |
+| [Soeciety Rules](Rules.md)
+| [Committee](Committee.md) |
+| [Membership](Membership.md) |
+| [Commmunity Code of Conduct](Community_Code_of_Conduct.md) |
 
 ## Changelog
 
