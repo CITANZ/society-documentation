@@ -3,7 +3,7 @@
 | Important links :book:                                 |
 |--------------------------------------------------------|
 | [Soeciety Rules](Rules.md)
-| [Committee](Committee.md) |
+| [Commitee](Commitee.md) |
 | [Membership](Membership.md) |
 | [Commmunity Code of Conduct](Community_Code_of_Conduct.md) |
 
