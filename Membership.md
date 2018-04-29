@@ -11,6 +11,7 @@
 * Free access to monthly meetup
 * Social events
 * Job referal
+* Limited edition CITA NZ T-shirt (later) 
 * Mentorship programme (later)
 * Discount NGO workshop and events (later)
 * Internship Programme (later)
