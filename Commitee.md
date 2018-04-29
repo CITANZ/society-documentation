@@ -28,4 +28,4 @@ Emma Zhang
 * Vincent Chen
 * Yu Liu
 * Frank Li
-* Jessie Hou
+* Jessie Dong
