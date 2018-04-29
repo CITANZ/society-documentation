@@ -20,7 +20,8 @@ Alex Li
 
 treasurer@cita.org.nz
 
-Emma Zhang  
+Emma Zhang 
+<zhangzhe0727@gmail.com>
 
 ## Officers
 
