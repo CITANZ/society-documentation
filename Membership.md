@@ -1,6 +1,8 @@
 # Membership of Chinese IT Association NZ Incorporated
 
-**Becoming a member**: Send an email to [membership@cita.org.nz](mailto:membership@cita.org.nz) and you'll receive an invoice for membership dues (bear with us - it can take a few days before you get the invoice). Your membership will be active upon receipt of membership dues.
+**Express your interest**: Express your interest [here](https://goo.gl/forms/49GsfQd62YSQ5f3L2). We will be in touch once the membership registration is open.
+
+**Becoming a member (later)**: Send an email to [membership@cita.org.nz](mailto:membership@cita.org.nz) and you'll receive an invoice for membership dues (bear with us - it can take a few days before you get the invoice). Your membership will be active upon receipt of membership dues. 
 
 **Fees**: Currently we charge a `$60` fee for membership per annual. For students, we offer `50%` discount for the membership fee.
 
