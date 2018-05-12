@@ -1,4 +1,4 @@
-# Membership of Chinese IT Association NZ Incorporated
+# Membership of Chinese IT Association New Zealand Incorporated
 
 **Express your interest**: Express your interest [here](https://goo.gl/forms/49GsfQd62YSQ5f3L2). We will be in touch once the membership registration is open.
 
@@ -8,12 +8,12 @@
 
 **Benefits**: We currently have a very small number of benefits but expect this to grow:
 * Voting on issues at AGM
-* Saying "I'm a member of the Chinese IT Association NZ"
+* Saying "I'm a member of the Chinese IT Association New Zealand"
 * A warm fuzzy feeling of knowing you're helping the Society achieve its goals
 * Free access to monthly meetup
 * Social events
 * Job referal
-* Limited edition CITA NZ T-shirt (later) 
+* Limited edition CITA New Zealand T-shirt (later) 
 * Mentorship programme (later)
 * Discount NGO workshop and events (later)
 * Internship Programme (later)
