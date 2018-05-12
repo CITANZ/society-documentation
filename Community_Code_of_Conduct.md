@@ -1,22 +1,22 @@
-# Chinese IT Association NZ Incorporated Code of Conduct
+# Chinese IT Association New Zealand Incorporated Code of Conduct
 
 This anti-harassment policy is based on the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Community_anti-harassment), created by the Geek Feminism community.
 
 ## Summary
 
-CITA NZ Inc is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
+CITA New Zealand Inc is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all CITA NZ Inc spaces, including our website, mailing list, Wechat groups, Github organisation, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Committee.
+This code of conduct applies to all CITA New Zealand Inc spaces, including our website, mailing list, Wechat groups, Github organisation, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Committee.
 
-Some CITA NZ Inc spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+Some CITA New Zealand Inc spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 ## Details
 
-CITA NZ Inc is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+CITA New Zealand Inc is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all CITA NZ Inc spaces, including our website, mailing lists, Wechat groups, Github organisation, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Committee.
+This code of conduct applies to all CITA New Zealand Inc spaces, including our website, mailing lists, Wechat groups, Github organisation, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Committee.
 
-Some CITA NZ Inc spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+Some CITA New Zealand Inc spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 Harassment includes:
 
@@ -37,7 +37,7 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.
 
-CITA NZ Inc prioritizes marginalized people’s safety over privileged people’s comfort. The Committee will not act on complaints regarding:
+CITA New Zealand Inc prioritizes marginalized people’s safety over privileged people’s comfort. The Committee will not act on complaints regarding:
 
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
@@ -46,16 +46,16 @@ CITA NZ Inc prioritizes marginalized people’s safety over privileged people’
 
 ## Reporting
 
-If you are being harassed by a member of CITA NZ Inc, notice that someone else is being harassed, or have any other concerns, please contact the Committee at [abuse@cita.org.nz](mailto:abuse@cita.org.nz). If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of CITA New Zealand Inc, notice that someone else is being harassed, or have any other concerns, please contact the Committee at [abuse@cita.org.nz](mailto:abuse@cita.org.nz). If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
-This code of conduct applies to CITA NZ Inc spaces, but if you are being harassed by a member of CITA NZ Inc outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by CITA NZ Inc members, especially the Committee, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from CITA NZ Inc based on their past behaviour, including behaviour outside CITA NZ Inc spaces and behaviour towards people who are not in CITA NZ Inc.
+This code of conduct applies to CITA New Zealand Inc spaces, but if you are being harassed by a member of CITA New Zealand Inc outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by CITA New Zealand Inc members, especially the Committee, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from CITA New Zealand Inc based on their past behaviour, including behaviour outside CITA New Zealand Inc spaces and behaviour towards people who are not in CITA New Zealand Inc.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of CITA NZ Inc members or the general public. We will not name harassment victims without their affirmative consent.
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of CITA New Zealand Inc members or the general public. We will not name harassment victims without their affirmative consent.
 
 ## Consequences
 
 Participants asked to stop any harassing behaviour are expected to comply immediately.
 
-If a participant engages in harassing behaviour, the Committee may take any action they deem appropriate, up to and including expulsion from all CITA NZ Inc spaces and referral of the matter to the New Zealand Police force.
+If a participant engages in harassing behaviour, the Committee may take any action they deem appropriate, up to and including expulsion from all CITA New Zealand Inc spaces and referral of the matter to the New Zealand Police force.

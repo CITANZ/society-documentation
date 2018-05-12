@@ -1,4 +1,4 @@
-# Chinese IT Association NZ Incorporated Committee
+# Chinese IT Association New Zealand Incorporated Committee
 
 Committee email: society@cita.org.nz
 

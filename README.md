@@ -1,4 +1,4 @@
-# Chinese IT Association NZ Incorporated
+# Chinese IT Association New Zealand Incorporated
 
 | Important links :book:                                 |
 |--------------------------------------------------------|

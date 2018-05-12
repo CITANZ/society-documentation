@@ -1,4 +1,4 @@
-# Rules of Chinese IT Association NZ Incorporated
+# Rules of Chinese IT Association New Zealand Incorporated
 
 ## The Society
 
@@ -10,7 +10,7 @@
 
 ### 1.0 Name
 
-1. The name of the Society is Chinese IT Association NZ Incorporated (“the Society”).
+1. The name of the Society is Chinese IT Association New Zealand Incorporated (“the Society”).
 2. The Society is constituted by resolution dated 2nd May 2018.
 
 ### 2.0 Registered Office
