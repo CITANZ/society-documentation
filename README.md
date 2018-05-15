@@ -2,6 +2,7 @@
 
 | Important links :book:                                 |
 |--------------------------------------------------------|
+| [Certificate of Incorporation](Certificate_of_Incorporation.pdf)
 | [Soeciety Rules](Rules.md)
 | [Commitee](Commitee.md) |
 | [Membership](Membership.md) |
