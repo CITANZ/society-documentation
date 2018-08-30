@@ -1,8 +1,19 @@
 # Membership of Chinese IT Association New Zealand Incorporated
 
-**Express your interest**: Express your interest [here](https://goo.gl/forms/49GsfQd62YSQ5f3L2). We will be in touch once the membership registration is open.
+**Becoming a member (Beta)**:
 
-**Becoming a member (later)**: Send an email to [membership@cita.org.nz](mailto:membership@cita.org.nz) and you'll receive an invoice for membership dues (bear with us - it can take a few days before you get the invoice). Your membership will be active upon receipt of membership dues. 
+`We are looking for 50 initial members to help us iterating some new programmes and initiatives.`
+
+* Membership[beta] Registration opens from: 30th Aug, 2018
+* Membership[beta] Registration ends at: 16th Sep, 2018
+* Memebshipe[beta] Selection period ends 30th Sep, 2018
+* Contact us at: memership@cita.org.nz if you have any questions.
+
+Please Complete the [membership application form](https://goo.gl/forms/A8j1UeAO9rifwoOj1) and you be notified once the selection process completes. 
+
+Memership Terms and Conditions:  https://cita-nz.github.io/society-documentation/Membership_TC.html
+
+Contact us at: memership@cita.org.nz if you have any questions.
 
 **Fees**: Currently we charge a `$60` fee for membership per annual. For students, we offer `50%` discount for the membership fee.
 
@@ -12,10 +23,10 @@
 * A warm fuzzy feeling of knowing you're helping the Society achieve its goals
 * Free access to monthly meetup
 * Social events
-* Job referal
+* Job referal(beta)
 * Limited edition CITA New Zealand T-shirt (later) 
-* Mentorship programme (later)
-* Discount NGO workshop and events (later)
+* Mentorship programme (beta)
+* Discount workshop and events (later)
 * Internship Programme (later)
 
 **Registry**: We have a register of members. Access to the registry is governed by the rules of the Society.
