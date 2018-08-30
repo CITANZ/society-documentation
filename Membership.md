@@ -7,7 +7,6 @@
 * Membership[beta] Registration opens from: 30th Aug, 2018
 * Membership[beta] Registration ends at: 16th Sep, 2018
 * Memebshipe[beta] Selection period ends 30th Sep, 2018
-* Contact us at: memership@cita.org.nz if you have any questions.
 
 Please Complete the [membership application form](https://goo.gl/forms/A8j1UeAO9rifwoOj1) and you be notified once the selection process completes. 
 
