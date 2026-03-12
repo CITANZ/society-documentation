@@ -118,6 +118,151 @@ The Committee must keep and maintain an Interests Register recording all disclos
 
 ---
 
+## [NEW SECTION] Section 9B — Committee Structure, Appointment, Roles, and Meetings
+
+*This new section is required to comply with sections 26(1)(e) and 26(1)(f) of the Incorporated Societies Act 2022, which require the constitution to set out the manner in which officers are elected or appointed, the quorum and procedure for committee meetings, and voting procedures.*
+
+**9B.1 Composition of the Committee**
+
+The Society shall have a Managing Committee ("the Committee") comprising:
+
+- President
+- Secretary
+- Treasurer
+- Such other Members as the Society shall decide at a Society Meeting.
+
+Only Members of the Society may be Committee Members. The President, Secretary, and Treasurer are Committee Members and Officers of the Society. There shall be a minimum of three (3) Committee Members, as required by section 45(1) of the Act.
+
+**9B.2 Election and Term of Committee Members**
+
+At a Society Meeting, the Members may decide by majority vote:
+
+- The size of the Committee;
+- Who shall be the President, Secretary, and Treasurer;
+- Whether any Committee Member may hold more than one Officer position;
+- The length of the Term for each Committee Member.
+
+Committee Members hold office until the conclusion of the next Annual General Meeting unless otherwise decided.
+
+**9B.3 Nomination Procedures**
+
+Nominations for Committee Members shall be called for at least 28 days before the Annual General Meeting.
+
+Each candidate must be proposed and seconded in writing by Members, and nominations must be delivered to the Secretary no later than 5pm on the fifth day before the AGM.
+
+All retiring Committee Members are eligible for re‑election.
+
+**9B.4 Vacancies**
+
+If the position of any Officer becomes vacant between Annual General Meetings, the Committee may appoint another Committee Member to fill the vacancy until the next AGM.
+
+If the position of any Committee Member becomes vacant, the Committee may appoint another Member to fill the vacancy until the next AGM.
+
+A Committee Member who is absent from three consecutive Committee Meetings without leave may have their position declared vacant by the President.
+
+**9B.5 Cessation of Committee Membership**
+
+A person ceases to be a Committee Member if:
+
+- They resign by written notice to the Committee;
+- They are removed by majority vote at a Society Meeting;
+- Their Term expires.
+
+A person who ceases to be a Committee Member must return all Society documents and property within one month.
+
+**9B.6 Role of the Committee**
+
+The Committee is responsible for:
+
+- Administering, managing, and controlling the Society;
+- Carrying out the purposes of the Society;
+- Managing the Society's financial affairs;
+- Approving annual financial statements;
+- Setting accounting policies;
+- Delegating responsibilities and co‑opting Members as necessary;
+- Ensuring Members follow the Rules;
+- Managing membership processes;
+- Setting meeting dates and agendas;
+- Managing complaints procedures;
+- Setting membership fees;
+- Making regulations.
+
+The Committee has all powers of the Society unless limited by these Rules or by a majority decision of the Members.
+
+**9B.7 Roles of Officers**
+
+**President**
+
+Responsible for ensuring compliance with the Rules, convening and chairing meetings, overseeing operations, and reporting at the AGM.
+
+**Secretary**
+
+Responsible for minutes, the Register of Members, records, correspondence, and filing documents with the Registrar.
+
+**Treasurer**
+
+Responsible for accounting records, preparing financial statements, reporting at the AGM, and providing financial information to the Committee.
+
+**9B.8 Committee Meetings**
+
+Committee Meetings may be held in person or via electronic means.
+
+A quorum is more than half of the Committee Members.
+
+Decisions are by majority vote, with the President holding a casting vote.
+
+Only Committee Members present (including by electronic means) may vote.
+
+Meetings may be adjourned if necessary, and adjourned meeting rules follow standard Society procedures.
+
+---
+
+## [NEW SECTION] Section 9C — Financial Benefit and Pecuniary Profit
+
+*This new section is required to comply with sections 22–24 of the Incorporated Societies Act 2022, which provide that a society must not be carried on for the financial gain of its members, and to set out permitted payments.*
+
+**9C.1 No Private Pecuniary Profit**
+
+No member or Officer of the Society may derive any private pecuniary profit from membership of the Society, except as permitted under this Constitution or the Act.
+
+**9C.2 Permitted Payments**
+
+The Society may:
+
+(a) reimburse members or Officers for reasonable expenses properly incurred on behalf of the Society;
+
+(b) pay reasonable remuneration to a member or Officer for services provided to the Society, provided that:
+
+&emsp;(i) the payment is reasonable and relative to market rates;
+
+&emsp;(ii) the member or Officer is not involved in the decision to approve the payment; and
+
+&emsp;(iii) the payment is recorded in the Interests Register.
+
+**9C.3 Conflict of Interest**
+
+Any financial benefit must comply with the conflict of interest rules in Section 9A.5 and 9A.6.
+
+---
+
+## [NEW SECTION] Section 9D — Contact Person
+
+*This new section is required to comply with sections 26(1)(h) and 112–113 of the Incorporated Societies Act 2022, which require the constitution to set out how the contact person will be elected or appointed.*
+
+**9D.1 Appointment**
+
+The Committee shall appoint at least one (1) Contact Person for the Society. The Contact Person must be a person who is eligible to be an Officer of the Society, is at least 18 years of age, and is ordinarily resident in New Zealand, in accordance with section 112 of the Act.
+
+**9D.2 Responsibilities**
+
+The Contact Person is responsible for communications with the Registrar of Incorporated Societies and for maintaining the Society's contact details on the register.
+
+**9D.3 Replacement**
+
+The Committee may replace the Contact Person at any time and must notify the Registrar of any change as soon as practicable.
+
+---
+
 ## [AMENDED] Section 12 — Admission of Members
 
 *This section is amended to include an express requirement for member consent, as required by section 26(1)(c) of the Incorporated Societies Act 2022.*
@@ -309,5 +454,28 @@ Despite Rule 14A.4, the Society may decide not to proceed further with a complai
 **26.2** For the avoidance of doubt, no member of the Association shall have any right or interest in the property of the Association, other than by way of a benefit authorised by the Act or this Constitution.
 
 ---
+
+## [NEW SECTION] Section 27 — Common Seal
+
+*This section clarifies that the Society does not use a common seal. The Incorporated Societies Act 2022 does not require a common seal (unlike the 1908 Act).*
+
+The Society does not have a common seal. Documents may be executed by the signatures of two (2) Officers authorised by the Committee.
+
+---
+
+## [NEW SECTION] Section 28 — Amendments to the Constitution
+
+*This new section is required to comply with section 26(1)(k) of the Incorporated Societies Act 2022, which requires the constitution to set out the method by which the constitution may be amended. See also sections 30–34 of the Act.*
+
+**28.1** This Constitution may be amended by a resolution passed by a two‑thirds (⅔) majority of members present and voting at a General Meeting.
+
+**28.2** Written notice of the proposed amendment must be given to all members at least fourteen (14) days before the meeting.
+
+**28.3** Any amendment takes effect only when registered by the Registrar of Incorporated Societies, in accordance with sections 33–34 of the Act.
+
+---
+
+## Implementation
+
    - Put the amendments to a vote at a General Meeting in accordance with the existing constitutional amendment procedures; and
    - Submit the amended Constitution, together with any other required changes, to the Registrar of Incorporated Societies as part of the re-registration process.
