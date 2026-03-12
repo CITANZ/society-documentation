@@ -473,6 +473,8 @@ The Society does not have a common seal. Documents may be executed by the signat
 
 **28.3** Any amendment takes effect only when registered by the Registrar of Incorporated Societies, in accordance with sections 33–34 of the Act.
 
+**28.4** Notwithstanding Rule 28.1, minor or technical amendments that have no more than a minor effect, or that correct errors or make similar technical alterations, may be made by the Committee in accordance with section 31 of the Act, provided that written notice of the amendment is sent to every member of the Society.
+
 ---
 
 ## Implementation
