@@ -2,7 +2,7 @@
 
 **Prepared for:** Chinese IT Association New Zealand Incorporated (CITANZ)
 
-**Date:** 5 March 2026
+**Date:** 20 March 2026 (Revised)
 
 **Purpose:** Draft new and amended Rules to comply with the Incorporated Societies Act 2022 (NZ) for re-registration
 
@@ -114,7 +114,7 @@ Every Officer of the Society must, when exercising powers or performing duties a
 
 **9A.7 Interests Register**
 
-The Committee must keep and maintain an Interests Register recording all disclosures made under Rule 9A.5. The Interests Register may be inspected by any Officer at any reasonable time.
+The Committee must keep and maintain an Interests Register recording all disclosures made under Rule 9A.5. The Interests Register must be available for inspection by any Member or Officer of the Society at any reasonable time, subject to redaction of personal information where required by law.
 
 ---
 
@@ -131,7 +131,7 @@ The Society shall have a Managing Committee ("the Committee") comprising:
 - Treasurer
 - Such other Members as the Society shall decide at a Society Meeting.
 
-Only Members of the Society may be Committee Members. The President, Secretary, and Treasurer are Committee Members and Officers of the Society. There shall be a minimum of three (3) Committee Members, as required by section 45(1) of the Act.
+Only Members of the Society may be Committee Members. The President, Secretary, and Treasurer are Committee Members and Officers of the Society. There shall be a minimum of three (3) Officers on the Committee, as required by section 45(1) of the Act.
 
 **9B.2 Election and Term of Committee Members**
 
@@ -143,6 +143,8 @@ At a Society Meeting, the Members may decide by majority vote:
 - The length of the Term for each Committee Member.
 
 Committee Members hold office until the conclusion of the next Annual General Meeting unless otherwise decided.
+
+The Committee must notify the Registrar of all elections or appointments of Officers, and of any changes relating to Officers, in accordance with section 52 of the Act.
 
 **9B.3 Nomination Procedures**
 
@@ -166,7 +168,11 @@ A person ceases to be a Committee Member if:
 
 - They resign by written notice to the Committee;
 - They are removed by majority vote at a Society Meeting;
-- Their Term expires.
+- Their Term expires;
+- They become disqualified from being an Officer under Rule 9A.3;
+- They are the subject of a banning order under subpart 7 of Part 4 of the Act.
+
+A Committee Member who ceases to hold office remains liable for any acts, omissions, or decisions made while they held office, in accordance with section 51 of the Act.
 
 A person who ceases to be a Committee Member must return all Society documents and property within one month.
 
@@ -209,11 +215,17 @@ Committee Meetings may be held in person or via electronic means.
 
 A quorum is more than half of the Committee Members.
 
-Decisions are by majority vote, with the President holding a casting vote.
+Decisions are by majority vote, with the President holding a casting vote in the event of an equality of votes.
 
 Only Committee Members present (including by electronic means) may vote.
 
-Meetings may be adjourned if necessary, and adjourned meeting rules follow standard Society procedures.
+The President shall chair Committee Meetings. If the President is absent, the Committee Members present shall elect one of their number to chair the meeting.
+
+Meetings may be adjourned if necessary. If a quorum is not present within half an hour of the appointed time, the meeting shall stand adjourned to a date and time determined by the President.
+
+**9B.9 Committee Meeting Minutes**
+
+The Secretary shall record minutes of every Committee Meeting. Minutes must include the names of those present, all motions and resolutions, and the results of any votes. Minutes must be confirmed at the next Committee Meeting and retained as part of the Society's permanent records.
 
 ---
 
@@ -247,7 +259,7 @@ Any financial benefit must comply with the conflict of interest rules in Section
 
 ## [NEW SECTION] Section 9D — Contact Person
 
-*This new section is required to comply with sections 26(1)(h) and 112–113 of the Incorporated Societies Act 2022, which require the constitution to set out how the contact person will be elected or appointed.*
+*This new section is required to comply with sections 26(1)(g) and 112–116 of the Incorporated Societies Act 2022, which require the constitution to set out how the contact person will be elected or appointed.*
 
 **9D.1 Appointment**
 
@@ -260,6 +272,10 @@ The Contact Person is responsible for communications with the Registrar of Incor
 **9D.3 Replacement**
 
 The Committee may replace the Contact Person at any time and must notify the Registrar of any change as soon as practicable.
+
+**9D.4 Accuracy of Registered Information**
+
+The Contact Person must ensure that the information relating to the Society held on the register maintained by the Registrar is accurate and up to date, in accordance with sections 113 and 116 of the Act.
 
 ---
 
@@ -288,6 +304,18 @@ The Committee may replace the Contact Person at any time and must notify the Reg
 **12.4** Every member, upon admission, shall be deemed to have consented to comply with and be bound by this Constitution and any bylaws of the Association as amended from time to time.
 
 **12.5** The Committee shall ensure that the Register of Members is kept up to date and includes such information as is required by section 79 of the Incorporated Societies Act 2022.
+
+**12.6** The Register of Members must be available for inspection by any Member upon reasonable notice, subject to redaction of personal information as permitted under the Act.
+
+**12.7 Member Access to Information**
+
+(a) A Member may at any time make a written request to the Society for information held by the Society, in accordance with section 80 of the Act.
+
+(b) The Society must, within ten (10) working days after receiving the request, either provide the information, agree to provide it within a specified period, or refuse to provide the information (specifying the reason for the refusal).
+
+(c) The Society may refuse to provide information on the grounds set out in section 81 of the Act, including the protection of the privacy of natural persons and the prevention of frivolous or vexatious requests.
+
+(d) The Society may require the Member to pay a reasonable charge to meet the cost of providing the information.
 
 ---
 
@@ -439,7 +467,43 @@ Despite Rule 14A.4, the Society may decide not to proceed further with a complai
 
 &emsp;(vii) any other outcome the Decision Maker considers just and reasonable in the circumstances.
 
-(b) The Decision Maker must give written notice of the decision and reasons to both the Complainant and the Respondent.
+(b) The Decision Maker must give written notice of the decision and reasons to both the Complainant and the Respondent within a reasonable time after the decision is made.
+
+---
+
+## [AMENDED] Section 20 — Financial Reporting (Supplementary Provisions)
+
+*The following provision supplements the existing financial reporting Rules to comply with sections 100–108 of the Incorporated Societies Act 2022.*
+
+**20.4 Financial Reporting Standards**
+
+If the Society qualifies as a "small society" as defined in section 103 of the Act, the Society's annual financial statements shall be prepared in accordance with section 104 of the Act (minimum requirements for small societies). If the Society does not qualify as a small society, the annual financial statements shall be prepared in accordance with generally accepted accounting practice as defined by the External Reporting Board (XRB), in accordance with sections 102–105 of the Act.
+
+---
+
+## [AMENDED] Section 21 — Society Meetings (Supplementary Provisions)
+
+*The following provisions supplement the existing Rules relating to Society Meetings to comply with section 26(1)(k) of the Incorporated Societies Act 2022.*
+
+**21.14 Minutes of Society Meetings**
+
+Minutes must be kept of all Society Meetings. Minutes must include the names of those present, all motions and resolutions put to the meeting, and the results of any votes. Minutes of each Society Meeting must be confirmed at the following Society Meeting.
+
+**21.15 Quorum — Remote Attendance**
+
+For the purposes of Rule 21.8, Members attending a Society Meeting by electronic means shall be counted towards the quorum. The Society does not provide for voting by proxy or postal vote.
+
+**21.16 Written Resolutions in Lieu of Meeting**
+
+The Society does not permit the passing of resolutions in lieu of a general meeting under section 89 of the Act. All resolutions of the Society must be passed at a duly convened Society Meeting.
+
+**21.17 Annual General Meeting**
+
+The Annual General Meeting shall be held no later than six (6) months after the Society's balance date, in accordance with section 84 of the Act.
+
+**21.18 Special General Meetings for Conflicts of Interest**
+
+Where a Special General Meeting is required under Rule 9A.6(d) (because half or more of the Officers are interested in a matter), the President or Secretary must call the Special General Meeting within twenty-one (21) days. The notice for the meeting must state the matter to be determined and the reason a Special General Meeting is required.
 
 ---
 
@@ -449,7 +513,7 @@ Despite Rule 14A.4, the Society may decide not to proceed further with a complai
 
 **26.0** The Association may be wound up, dissolved, or removed from the register in accordance with the Incorporated Societies Act 2022.
 
-**26.1** If, upon the winding up, dissolution, or removal from the register of the Association, there remain after the satisfaction of all its debts and liabilities any surplus assets, those surplus assets shall not be distributed to or among the members of the Association, but shall be given or transferred to one or more not-for-profit organisations having purposes similar to those of the Association, as determined by resolution at a General Meeting, or, if no such resolution is passed, as directed by the High Court pursuant to the Incorporated Societies Act 2022.
+**26.1** If, upon the winding up, dissolution, or removal from the register of the Association, there remain after the satisfaction of all its debts and liabilities any surplus assets, those surplus assets shall not be distributed to or among the members of the Association, but shall be given or transferred to one or more not-for-profit organisations operating in New Zealand for the benefit of the Chinese or wider IT professional community, or having purposes similar to those of the Association, as determined by resolution at a General Meeting, or, if no such resolution is passed, as directed by the High Court pursuant to the Incorporated Societies Act 2022.
 
 **26.2** For the avoidance of doubt, no member of the Association shall have any right or interest in the property of the Association, other than by way of a benefit authorised by the Act or this Constitution.
 
@@ -457,7 +521,7 @@ Despite Rule 14A.4, the Society may decide not to proceed further with a complai
 
 ## [NEW SECTION] Section 27 — Common Seal
 
-*This section clarifies that the Society does not use a common seal. The Incorporated Societies Act 2022 does not require a common seal (unlike the 1908 Act).*
+*This section replaces Rule 23 of the existing Rules. The Incorporated Societies Act 2022 does not require a common seal (unlike the 1908 Act).*
 
 The Society does not have a common seal. Documents may be executed by the signatures of two (2) Officers authorised by the Committee.
 
@@ -465,7 +529,7 @@ The Society does not have a common seal. Documents may be executed by the signat
 
 ## [NEW SECTION] Section 28 — Amendments to the Constitution
 
-*This new section is required to comply with section 26(1)(k) of the Incorporated Societies Act 2022, which requires the constitution to set out the method by which the constitution may be amended. See also sections 30–34 of the Act.*
+*This new section replaces Rule 24 of the existing Rules, to comply with section 26(1)(i) of the Incorporated Societies Act 2022, which requires the constitution to set out the method by which the constitution may be amended. See also sections 30–34 of the Act.*
 
 **28.1** This Constitution may be amended by a resolution passed by a two‑thirds (⅔) majority of members present and voting at a General Meeting.
 
@@ -475,9 +539,25 @@ The Society does not have a common seal. Documents may be executed by the signat
 
 **28.4** Notwithstanding Rule 28.1, minor or technical amendments that have no more than a minor effect, or that correct errors or make similar technical alterations, may be made by the Committee in accordance with section 31 of the Act, provided that written notice of the amendment is sent to every member of the Society.
 
+**28.5** No amendment may be made that would alter the Society's not‑for‑profit nature or permit distribution of surplus assets to Members.
+
 ---
 
-## Implementation
+## Consequential Amendments to Existing Rules
 
-   - Put the amendments to a vote at a General Meeting in accordance with the existing constitutional amendment procedures; and
-   - Submit the amended Constitution, together with any other required changes, to the Registrar of Incorporated Societies as part of the re-registration process.
+*The following existing Rules are replaced or amended by this document. Upon adoption, these superseded Rules should be read subject to the new provisions.*
+
+| New Provision | Replaces / Amends | Effect |
+|---|---|---|
+| Sections 9A and 9B | Rules 4–10 (Managing Committee, Appointment, Cessation, Nomination, Role, Roles of Officers, Committee Meetings) | Replaced in their entirety. New sections consolidate and expand committee governance to comply with the Act. |
+| Section 9C | (New — no existing equivalent) | New provision addressing pecuniary profit restrictions. |
+| Section 9D | (New — no existing equivalent) | New provision for Contact Person. |
+| Section 12 (Amended) | Rule 12 (Admission of Members) | Replaced in its entirety with updated membership provisions including consent requirement. |
+| Section 14A | (New — supplements Rule 14) | New dispute resolution procedures. Rule 14 (Cessation of Membership) continues to apply, subject to Section 14A. |
+| Section 20.4 | Supplements Rule 20 | New financial reporting standards provision (XRB). |
+| Section 21.14–21.18 | Supplements Rule 21 | New provisions for minutes, quorum clarification, written resolutions, AGM timing, and conflict-of-interest SGM. |
+| Section 26 (Amended) | Rule 26 (Winding Up) | Replaced in its entirety with updated references and surplus asset provisions. |
+| Section 27 | Rule 23 (Common Seal) | **Replaces Rule 23 in its entirety.** Society no longer uses a common seal. |
+| Section 28 | Rule 24 (Altering the Rules) | **Replaces Rule 24 in its entirety.** Updated amendment procedure with Registrar registration requirement. |
+
+---
